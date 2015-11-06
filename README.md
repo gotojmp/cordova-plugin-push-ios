@@ -1,7 +1,7 @@
 #cordova-plugin-push-ios
 
 > Register and receive push notifications for ios
-由于天朝网络原因，删除了Android模块，只保留IOS部分。
+> 由于天朝网络原因，删除了Android模块，只保留IOS部分。
 
 ## Installation
 
